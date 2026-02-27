@@ -1,2 +1,2 @@
 # N.E.S.O.L.I.N.E
-no soul alone
+Neural Emotional Support & Online Listening Intelligence Network Entity
